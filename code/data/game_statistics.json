@@ -1,0 +1,272 @@
+[
+    {
+        "total_ants": 200,
+        "total_food": 250,
+        "collected_food": 0,
+        "produced_ant_count": 0,
+        "collected_food_per_second": 0,
+        "collected_food_per_ant": 0,
+        "time": 0
+    },
+    {
+        "total_ants": 200,
+        "total_food": 250,
+        "collected_food": 125,
+        "produced_ant_count": 0,
+        "collected_food_per_second": 0,
+        "collected_food_per_ant": 0,
+        "time": 1
+    },
+    {
+        "total_ants": 201,
+        "total_food": 250,
+        "collected_food": 190,
+        "produced_ant_count": 1,
+        "collected_food_per_second": 132,
+        "collected_food_per_ant": 0.6567164179104478,
+        "time": 2
+    },
+    {
+        "total_ants": 201,
+        "total_food": 250,
+        "collected_food": 228,
+        "produced_ant_count": 1,
+        "collected_food_per_second": 132,
+        "collected_food_per_ant": 0.6567164179104478,
+        "time": 3
+    },
+    {
+        "total_ants": 202,
+        "total_food": 250,
+        "collected_food": 261,
+        "produced_ant_count": 2,
+        "collected_food_per_second": 62,
+        "collected_food_per_ant": 1.2277227722772277,
+        "time": 4
+    },
+    {
+        "total_ants": 202,
+        "total_food": 250,
+        "collected_food": 292,
+        "produced_ant_count": 2,
+        "collected_food_per_second": 62,
+        "collected_food_per_ant": 1.2277227722772277,
+        "time": 5
+    },
+    {
+        "total_ants": 203,
+        "total_food": 250,
+        "collected_food": 335,
+        "produced_ant_count": 3,
+        "collected_food_per_second": 55,
+        "collected_food_per_ant": 1.6403940886699508,
+        "time": 6
+    },
+    {
+        "total_ants": 203,
+        "total_food": 250,
+        "collected_food": 363,
+        "produced_ant_count": 3,
+        "collected_food_per_second": 55,
+        "collected_food_per_ant": 1.6403940886699508,
+        "time": 7
+    },
+    {
+        "total_ants": 203,
+        "total_food": 250,
+        "collected_food": 394,
+        "produced_ant_count": 3,
+        "collected_food_per_second": 55,
+        "collected_food_per_ant": 1.6403940886699508,
+        "time": 8
+    },
+    {
+        "total_ants": 204,
+        "total_food": 250,
+        "collected_food": 411,
+        "produced_ant_count": 4,
+        "collected_food_per_second": 44,
+        "collected_food_per_ant": 1.9803921568627452,
+        "time": 9
+    },
+    {
+        "total_ants": 204,
+        "total_food": 250,
+        "collected_food": 435,
+        "produced_ant_count": 4,
+        "collected_food_per_second": 44,
+        "collected_food_per_ant": 1.9803921568627452,
+        "time": 10
+    },
+    {
+        "total_ants": 205,
+        "total_food": 250,
+        "collected_food": 456,
+        "produced_ant_count": 5,
+        "collected_food_per_second": 41,
+        "collected_food_per_ant": 2.229268292682927,
+        "time": 12
+    },
+    {
+        "total_ants": 205,
+        "total_food": 250,
+        "collected_food": 476,
+        "produced_ant_count": 5,
+        "collected_food_per_second": 41,
+        "collected_food_per_ant": 2.229268292682927,
+        "time": 13
+    },
+    {
+        "total_ants": 205,
+        "total_food": 250,
+        "collected_food": 493,
+        "produced_ant_count": 5,
+        "collected_food_per_second": 41,
+        "collected_food_per_ant": 2.229268292682927,
+        "time": 14
+    },
+    {
+        "total_ants": 206,
+        "total_food": 250,
+        "collected_food": 510,
+        "produced_ant_count": 6,
+        "collected_food_per_second": 36,
+        "collected_food_per_ant": 2.4563106796116503,
+        "time": 15
+    },
+    {
+        "total_ants": 206,
+        "total_food": 250,
+        "collected_food": 525,
+        "produced_ant_count": 6,
+        "collected_food_per_second": 36,
+        "collected_food_per_ant": 2.4563106796116503,
+        "time": 16
+    },
+    {
+        "total_ants": 207,
+        "total_food": 250,
+        "collected_food": 536,
+        "produced_ant_count": 7,
+        "collected_food_per_second": 33,
+        "collected_food_per_ant": 2.6135265700483092,
+        "time": 17
+    },
+    {
+        "total_ants": 207,
+        "total_food": 250,
+        "collected_food": 549,
+        "produced_ant_count": 7,
+        "collected_food_per_second": 33,
+        "collected_food_per_ant": 2.6135265700483092,
+        "time": 18
+    },
+    {
+        "total_ants": 207,
+        "total_food": 250,
+        "collected_food": 572,
+        "produced_ant_count": 7,
+        "collected_food_per_second": 33,
+        "collected_food_per_ant": 2.6135265700483092,
+        "time": 19
+    },
+    {
+        "total_ants": 208,
+        "total_food": 250,
+        "collected_food": 587,
+        "produced_ant_count": 8,
+        "collected_food_per_second": 30,
+        "collected_food_per_ant": 2.8125,
+        "time": 20
+    },
+    {
+        "total_ants": 208,
+        "total_food": 250,
+        "collected_food": 590,
+        "produced_ant_count": 8,
+        "collected_food_per_second": 30,
+        "collected_food_per_ant": 2.8125,
+        "time": 21
+    },
+    {
+        "total_ants": 209,
+        "total_food": 250,
+        "collected_food": 590,
+        "produced_ant_count": 9,
+        "collected_food_per_second": 27,
+        "collected_food_per_ant": 2.8660287081339715,
+        "time": 22
+    },
+    {
+        "total_ants": 209,
+        "total_food": 250,
+        "collected_food": 591,
+        "produced_ant_count": 9,
+        "collected_food_per_second": 27,
+        "collected_food_per_ant": 2.8660287081339715,
+        "time": 23
+    },
+    {
+        "total_ants": 209,
+        "total_food": 250,
+        "collected_food": 591,
+        "produced_ant_count": 9,
+        "collected_food_per_second": 27,
+        "collected_food_per_ant": 2.8660287081339715,
+        "time": 24
+    },
+    {
+        "total_ants": 210,
+        "total_food": 250,
+        "collected_food": 590,
+        "produced_ant_count": 10,
+        "collected_food_per_second": 25,
+        "collected_food_per_ant": 2.857142857142857,
+        "time": 25
+    },
+    {
+        "total_ants": 210,
+        "total_food": 250,
+        "collected_food": 590,
+        "produced_ant_count": 10,
+        "collected_food_per_second": 25,
+        "collected_food_per_ant": 2.857142857142857,
+        "time": 26
+    },
+    {
+        "total_ants": 211,
+        "total_food": 252,
+        "collected_food": 589,
+        "produced_ant_count": 11,
+        "collected_food_per_second": 22,
+        "collected_food_per_ant": 2.843601895734597,
+        "time": 27
+    },
+    {
+        "total_ants": 211,
+        "total_food": 256,
+        "collected_food": 590,
+        "produced_ant_count": 11,
+        "collected_food_per_second": 22,
+        "collected_food_per_ant": 2.843601895734597,
+        "time": 28
+    },
+    {
+        "total_ants": 212,
+        "total_food": 257,
+        "collected_food": 591,
+        "produced_ant_count": 12,
+        "collected_food_per_second": 20,
+        "collected_food_per_ant": 2.8443396226415096,
+        "time": 29
+    },
+    {
+        "total_ants": 212,
+        "total_food": 257,
+        "collected_food": 594,
+        "produced_ant_count": 12,
+        "collected_food_per_second": 20,
+        "collected_food_per_ant": 2.8443396226415096,
+        "time": 30
+    }
+]
